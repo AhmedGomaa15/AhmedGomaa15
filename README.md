@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AhmedGomaa15
-- 👀 I’m interested in DataScience & WebDevelopment 
-- 🌱 I’m currently learning Mobile Applivations
+- 👀 I’m interested in DataScience & WebDevelopment & Mobile Applications
+- 🌱 I’m currently learning Mobile Applications & DataScience & WebDevelopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by messaging me on ahmedrooney42@gmail.com
 
